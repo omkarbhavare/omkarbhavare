@@ -4,7 +4,7 @@
 
 - 📝 I regularly write articles on [Medium.](Medium.)
 
-- 📫 How to reach me **omkarbhavare2406@gmail.com**
+- 📫 How to reach me **omkarbhavare.dev@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
