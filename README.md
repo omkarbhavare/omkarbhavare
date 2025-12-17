@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Omkar Bhavare</h1>
 <h3 align="center">A passionate Tech Geek from Maharashtra(🇮🇳).</h3>
 
-- 📝 I regularly write articles on [Medium.](Medium.)
+- 📝 I regularly write articles on Medium [ https://medium.com/@omkarbhavare2406 ].
 
 - 📫 How to reach me **omkarbhavare.dev@gmail.com**
 
